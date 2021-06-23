@@ -9,5 +9,8 @@
         <module name="Timer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Timer" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

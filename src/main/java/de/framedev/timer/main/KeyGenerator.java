@@ -1,7 +1,3 @@
-/**
- * Dies ist ein Plugin von FrameDev
- * Bitte nichts ändern, @Copyright by FrameDev 
- */
 package de.framedev.timer.main;
 
 import java.security.SecureRandom;
