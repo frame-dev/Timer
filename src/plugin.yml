@@ -1,0 +1,14 @@
+name: Timer
+version: 1.0.0
+api-version: 1.14
+main: de.framedev.timer.main.Main
+SoftDepend:
+  - Vault
+
+commands:
+  starttimer:
+  stoptimer:
+  resumetimer:
+  pausetimer:
+  resettimer:
+  timer:
