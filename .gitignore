@@ -1,0 +1,6 @@
+/.profiler/
+/.idea/
+/.vscode/
+/bin/
+/target/
+Timer.iml

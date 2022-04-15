@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="EclipseModuleManager">
-    <libelement value="jar://$MODULE_DIR$/../../../../Developer/Plugins/BungeeCord/spigot-1.16.1.jar!/" />
+    <libelement value="jar:///Users/Developer/Plugins/BungeeCord/spigot-1.16.1.jar!/" />
     <src_description expected_position="1">
       <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
     </src_description>
@@ -28,18 +28,18 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Minecraft/Test Server/spigot-1.16.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Minecraft/Test Server/spigot-1.16.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Documents/Minecraft/Test Server/spigot-1.16.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Minecraft/Test Server/spigot-1.16.1.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Minecraft/Test Server/plugins/Vault.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Minecraft/Test Server/plugins/Vault.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -71,6 +71,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.mongodb:mongodb-driver-sync:3.11.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.mongodb:bson:3.11.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.mongodb:mongodb-driver-core:3.11.0" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains:annotations:21.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:23.0.0" level="project" />
   </component>
 </module>
