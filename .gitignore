@@ -3,5 +3,5 @@
 /.vscode/
 /bin/
 /target/
-Timer.iml
-*.jar
+/Timer.iml
+/*.jar
